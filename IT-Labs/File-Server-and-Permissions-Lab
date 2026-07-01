@@ -1,0 +1,73 @@
+# 🗂️ Windows File Server and NTFS Permissions Lab
+
+## 📋 Overview
+Built a Windows File Server environment to simulate how organizations manage shared resources and control access to sensitive data using NTFS and Share permissions.
+
+## 🛠️ Technologies Used
+- Windows Server 2022
+- Active Directory
+- NTFS Permissions
+- Shared Folders
+- Oracle VirtualBox
+
+## 🎯 Objectives
+- Create shared folders
+- Configure NTFS permissions
+- Configure Share permissions
+- Apply least privilege access
+- Test user access
+- Configure file auditing
+
+---
+
+## 🔧 Tasks Completed
+
+### 📁 Shared Folder Creation
+- Created departmental file shares
+- Configured network sharing settings
+- Verified access from client machines
+
+![Shared Folder](images/shared-folder.png)
+
+---
+
+### 🔒 NTFS Permissions
+- Assigned Read, Modify, and Full Control permissions
+- Tested access restrictions
+- Verified least privilege implementation
+
+![NTFS Permissions](images/ntfs-permissions.png)
+
+---
+
+### 🌐 Share Permissions
+- Configured share-level permissions
+- Tested access using multiple user accounts
+- Verified permission inheritance
+
+![Share Permissions](images/share-permissions.png)
+
+---
+
+### 📊 File Auditing
+- Enabled object access auditing
+- Generated audit logs from file activity
+- Verified successful monitoring configuration
+
+![File Auditing](images/file-auditing.png)
+
+---
+
+## 💡 Skills Demonstrated
+- Windows Server Administration
+- File Server Management
+- NTFS Permissions
+- Share Permissions
+- Access Control
+- File Auditing
+- Least Privilege Principles
+
+---
+
+## 📚 Lessons Learned
+This lab provided hands-on experience with enterprise file sharing and access control. Building and testing permissions helped reinforce how organizations secure shared resources while ensuring users have appropriate access to perform their job responsibilities.
