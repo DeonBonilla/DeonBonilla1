@@ -68,7 +68,7 @@ During the lab, I completed the following tasks:
 ### Windows Server Environment
 This screenshot shows the Windows Server environment used as the foundation of the lab infrastructure.
 
-![Windows Server Environment](images/windows-server-setup.png)
+
 <img width="1031" height="773" alt="Screenshot 2026-04-30 015540" src="https://github.com/user-attachments/assets/c978e9cf-ebe2-4917-b8f9-0920644f23dc" />
 
 
@@ -77,7 +77,7 @@ This screenshot shows the Windows Server environment used as the foundation of t
 ### Active Directory Users and Computers
 This screenshot shows the Active Directory Users and Computers console where user accounts, organizational units, and computer objects were managed.
 
-![Active Directory Users and Computers](images/ad-users-and-computers.png)
+
 <img width="2048" height="1151" alt="Screenshot 2026-04-30 020401" src="https://github.com/user-attachments/assets/749b7838-2c53-48e0-96ea-09fc7148acad" />
 
 
@@ -86,32 +86,28 @@ This screenshot shows the Active Directory Users and Computers console where use
 ### User Account Creation
 This screenshot demonstrates the successful creation and configuration of a domain user account.
 
-![User Account Creation](images/user-created.png)
+
 <img width="2048" height="1152" alt="Screenshot 2026-04-30 020118" src="https://github.com/user-attachments/assets/ad5ae04c-6a6f-4ce9-b59c-4d1b95ea5d24" />
 
----
+
 
 ### Domain Join Verification
 This screenshot confirms that the Windows 11 workstation was successfully joined to the Active Directory domain.
 
-![Domain Join](images/domain-join.png)
 
----<img width="2048" height="1152" alt="Screenshot 2026-06-29 170213" src="https://github.com/user-attachments/assets/09615f6c-79c5-4a90-bb7d-294e2216da76" />
+
+<img width="2048" height="1152" alt="Screenshot 2026-06-29 170213" src="https://github.com/user-attachments/assets/09615f6c-79c5-4a90-bb7d-294e2216da76" />
 
 
 
 ### Domain Authentication
 This screenshot demonstrates successful authentication using domain credentials.
 
-![Domain Login](images/domain-user-login.png)
-
----<img width="2048" height="1152" alt="Screenshot 2026-06-29 170555" src="https://github.com/user-attachments/assets/4caf0313-5963-4721-8fa2-7983121934c8" />
 
 
-### Computer Object Verification
-This screenshot confirms that the workstation was properly registered within Active Directory after joining the domain.
+<img width="2048" height="1152" alt="Screenshot 2026-06-29 170555" src="https://github.com/user-attachments/assets/4caf0313-5963-4721-8fa2-7983121934c8" />
 
-![Computer Object Verification](images/computer-in-domain.png)
+
 
 ---
 
