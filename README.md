@@ -15,7 +15,6 @@ I'm a cybersecurity graduate passionate about IT infrastructure, systems adminis
 - 🌐 [Network Troubleshooting Lab](https://github.com/DeonBonilla/Network-Troubleshooting-Lab)
 - 🛡️ [Patch Management and Vulnerability Remediation Lab](https://github.com/DeonBonilla/Patch-Management-and-Vulnerability-Remediation-Lab)
 - 🎫 [Help Desk Ticket Simulation Lab](https://github.com/DeonBonilla/Help-Desk-Ticket-Simulation-Lab)
-- 🖥️ [Enterprise Desktop Support Lab](https://github.com/DeonBonilla/Enterprise-Desktop-Support-Lab)
 
 ---
 
