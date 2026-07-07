@@ -18,7 +18,7 @@ I'm a cybersecurity graduate passionate about IT infrastructure, systems adminis
 
 ---
 
-# 🔐 Cybersecurity Labs (Coming Soon)
+# 🔐 Cybersecurity Labs (Pending)
 
 - 🚧 Authentication Alert Investigation
 - 🚧 Suspicious PowerShell Execution Analysis
